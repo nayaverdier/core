@@ -119,6 +119,7 @@ FLOWS = [
     "growatt_server",
     "guardian",
     "habitica",
+    "halohome",
     "hangouts",
     "harmony",
     "heos",
